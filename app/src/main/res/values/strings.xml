@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="my_image">my image</string>
+    <string name="name">Jorge Rodriguez</string>
+    <string name="mail">jorge@correo.com</string>
+    <string name="home_map">Home</string>
+    <string name="google">google</string>
+    <string name="positioning">positioning</string>
+    <string name="subheader">Subheader</string>
+    <string name="all_locations">all Locations</string>
+    <string name="add_unit">add Unit</string>
+    <string name="proximity">proximity</string>
+
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+
+</resources>
